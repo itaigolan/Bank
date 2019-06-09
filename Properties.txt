@@ -1,0 +1,2 @@
+Data_Access_Method = Database
+Connection_Url = "jdbc:mysql://localhost:3306/quintrixbankdb"

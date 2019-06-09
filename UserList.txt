@@ -1,0 +1,2 @@
+1,Employee,Cyrus,Money,CMoney@money.com,password;
+2,Customer,Bob,Smith,BSmith@yahoo.com,password,3212 Crane Street,San Jose,CA,95124;
